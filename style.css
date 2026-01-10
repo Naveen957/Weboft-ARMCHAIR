@@ -128,22 +128,23 @@ opacity: 0.7;}
 }
 
 .hero-text h1 {
-  font-size: 54px;
+  font-size: 55px;
   line-height: 1;
   padding-left: 40px;
   color: #183836;
-
+  font-weight: bolder;
 }
 
 .hero-text p {
-  margin: 20px 0px 0px 40px;
+  margin: 22px 0px 0px 40px;
   font-weight: 500;
+  font-size: 14px;
 }
 
 .btn {
   background: #1c4c45;
   color: #fff;
-  margin: 20px 0px 0px 40px;
+  margin: 60px 0px 0px 40px;
   border: none;
   padding: 12px 28px;
   cursor: pointer;
@@ -310,7 +311,7 @@ opacity: 0.7;}
 
 .view-all {
   margin-top: 10px;
-  font-size: 14px;
+  font-size: 15px;
   color: #000;
   text-decoration: none;
   font-weight: 500;
@@ -367,7 +368,7 @@ opacity: 0.7;}
 }
 
 .header-right p {
-  font-size: 16px;
+  font-size: 15px;
   line-height: 1.6;
   font-weight: 500;
   margin: 0;
