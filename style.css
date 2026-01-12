@@ -774,13 +774,15 @@ opacity: 0.7;}
     margin: 10px auto 0;
   }
 
- .transform-header {
+  .transform-header {
     flex-direction: column;
-    gap: 20px;
+    align-items: center;
+    text-align: center;
   }
 
   .header-left h2 {
-    max-width: 100%;
+    text-align: center;
+    margin: 0 auto;
   }
   .header-right {
     padding-left: 0;          
